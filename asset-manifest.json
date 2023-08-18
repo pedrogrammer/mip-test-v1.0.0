@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/mip-test-v1.0.0/static/css/main.562e09c2.css",
+    "main.js": "/mip-test-v1.0.0/static/js/main.b99ca40c.js",
+    "static/media/VazirmatnRegular.ttf": "/mip-test-v1.0.0/static/media/VazirmatnRegular.9f1ec5f7f80231b39f6f.ttf",
+    "index.html": "/mip-test-v1.0.0/index.html",
+    "main.562e09c2.css.map": "/mip-test-v1.0.0/static/css/main.562e09c2.css.map",
+    "main.b99ca40c.js.map": "/mip-test-v1.0.0/static/js/main.b99ca40c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.562e09c2.css",
+    "static/js/main.b99ca40c.js"
+  ]
+}
